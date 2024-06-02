@@ -2,6 +2,8 @@
 This repository focuses on exploring and visualizing Spotify's most streamed songs of 2023 using various tools and techniques, including Power BI, HTML, and Python.
 
 ## Project Overview
+![Screenshot (52)](https://github.com/Ani-develops/spotify/assets/137860990/3d8390d6-344a-4a38-bd59-bfacf6c96d62)
+
 ### The Spotify Music Analysis project aims to:
 
 <p>-Analyze music data from Spotify to uncover trends, genres, and user preferences.</p>
